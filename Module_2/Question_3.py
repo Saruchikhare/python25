@@ -6,7 +6,7 @@ count == 0
 if n <= 0:
     print("Kindly enter a positive number")
 elif n == 1:
-    print("Fibonacci Sequence Answer is", n)
+    print("Fibonacci Sequence Answer is", n2)
 else:
     print("Fibonnaci Sequence Answer is")
 while count < n:
